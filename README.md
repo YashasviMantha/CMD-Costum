@@ -12,3 +12,12 @@ o    -   resets proxy
 l    -   uses linux command(still under Development)
 
 
+# Python-Scripts
+These are some of the Scripts that I wrote for stuff like marking setting shit up.
+
+Docs:
+
+from _Dump import me   --> is the file for importing the inscript runnables 
+
+me.mark("D")           --> for watermarking the script in DUMP's name
+me.mark("Y")           --> for watermarking the script in Yashasvi's name
