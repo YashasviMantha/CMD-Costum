@@ -13,7 +13,7 @@ l    -   uses linux command(still under Development)
 
 
 # Python-Scripts
-These are some of the Scripts that I wrote for stuff like marking setting shit up.
+These are some of the Scripts that I wrote for stuff like marking and set-up.
 
 Docs:
 
