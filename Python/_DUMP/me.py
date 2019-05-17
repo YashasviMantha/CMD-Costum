@@ -1,4 +1,9 @@
 import pyfiglet
+import sys
+
+
+def importfix(path_l):
+	sys.path.append(path_l)
 
 def mark(cha):
 	if(cha == "Y"):
