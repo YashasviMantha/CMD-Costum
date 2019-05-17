@@ -11,6 +11,8 @@ o    -   resets proxy
 
 l    -   uses linux command(still under Development)
 
+jup  -   Opens Jupyter-Lab in the Working-Dir
+
 
 # Python-Scripts
 These are some of the Scripts that I wrote for stuff like marking and set-up.
