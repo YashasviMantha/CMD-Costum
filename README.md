@@ -5,9 +5,11 @@ Docs:
 
 `chr`  -   opens chrome
 
-`i`    -   Sets proxy
+`i`    -   Sets proxy (GITAM Proxy)
 
 `o`    -   resets proxy
+
+`ib`   -   Sets proxy (IITB Proxy)
 
 `l`    -   uses linux command(still under Development)
 
