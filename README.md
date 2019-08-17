@@ -5,13 +5,19 @@ Docs:
 
 `chr`  -   opens chrome
 
-`i`    -   Sets proxy
+`i`    -   Sets proxy (GITAM Proxy)
 
 `o`    -   resets proxy
+
+`ib`   -   Sets proxy (IITB Proxy)
 
 `l`    -   uses linux command(still under Development)
 
 `jup`  -   Opens Jupyter-Lab in the Working-Dir
+
+`push` -   Push repo. Type the message in quotes
+
+`pull` -   Pull repo
 
 
 Formated Start info: 43 Upvotes [Here](https://superuser.com/questions/302194/automatically-executing-commands-when-a-command-prompt-is-opened)
