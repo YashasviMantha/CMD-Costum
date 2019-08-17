@@ -7,8 +7,9 @@ doskey py_d = cd "C:\Users\Zara\Anaconda3"
 doskey pull = C:\Users\Zara\Desktop\CustomScripts\CDM\git_pull.bat
 doskey push = C:\Users\Zara\Desktop\CustomScripts\CDM\git_push.bat
 doskey o = C:\Users\Zara\Desktop\CustomScripts\CDM\proxy_reset.bat
-doskey l = C:\Users\Zara\Desktop\CustomScripts\CDM\\LinuxCommands.bat
+doskey l = C:\Users\Zara\Desktop\CustomScripts\CDM\LinuxCommands.bat
 doskey desktop = cd "C:\Users\Zara\Desktop"
-cd "C:\Users\Zara\Desktop\Internship\Work"
-ECHO.
-ECHO "i -Proxy | o -Reset | chr -Chrome | l -LXC | jup -Jupyter-Lab"
+doskey kri = C:\Users\Zara\Desktop\CustomScripts\CDM\krishna.bat
+:: cd "C:\Users\Zara\Desktop\Internship\Work"
+REM ECHO.
+REM ECHO "i -Proxy | o -Reset | chr -Chrome | l -LXC | jup -Jupyter-Lab"
