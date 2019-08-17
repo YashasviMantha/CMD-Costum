@@ -19,6 +19,8 @@ Docs:
 
 `pull` -   Pull repo
 
+`kri`  -   Auto Remote Login integrated with RSA Key.
+
 
 Formated Start info: 43 Upvotes [Here](https://superuser.com/questions/302194/automatically-executing-commands-when-a-command-prompt-is-opened)
 
@@ -27,8 +29,16 @@ These are some of the Scripts that I wrote for stuff like marking and set-up.
 
 Docs:
 
-`from _Dump import me`   -->  is the file for importing the inscript runnables 
+`from _Dump import me`   -->  is the file for importing the inscript runnables
 
 `me.mark("D")`           -->  for watermarking the script in DUMP's name
 
 `me.mark("Y")`           -->  for watermarking the script in Yashasvi's name
+
+# Remote-Server
+Contains Mainly OpenVPN Setup that I use for accessing RDPS set-up.
+
+Docs:
+
+VPN Setup that tunnels just the `Krishna` Network traffic. All other packets are tunneled from the local network.
+Only `one` IP has been allowed.
