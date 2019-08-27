@@ -35,6 +35,13 @@ Docs:
 
 `me.mark("Y")`           -->  for watermarking the script in Yashasvi's name
 
+# AutoHotKey-Scripts
+These are some of the `.ahk` scripts I wrote.
+
+Docs:
+
+`Ctrl + e`   --> Enables/Disables Desktop icons and hides Taskbar
+
 # Remote-Server
 Contains Mainly OpenVPN Setup that I use for accessing RDPS set-up.
 
