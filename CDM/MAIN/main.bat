@@ -13,3 +13,8 @@ doskey kri = C:\Users\Zara\Desktop\CustomScripts\CDM\krishna.bat
 :: cd "C:\Users\Zara\Desktop\Internship\Work"
 REM ECHO.
 REM ECHO "i -Proxy | o -Reset | chr -Chrome | l -LXC | jup -Jupyter-Lab"
+
+
+:: PYTHON RELATED
+
+doskey M = C:\Users\Zara\Desktop\CustomScripts\CDM\exe_main_py_file.bat

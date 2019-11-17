@@ -21,6 +21,8 @@ Docs:
 
 `kri`  -   Auto Remote Login integrated with RSA Key.
 
+`m`    -   Executes the main.py file in the directory
+
 
 Formated Start info: 43 Upvotes [Here](https://superuser.com/questions/302194/automatically-executing-commands-when-a-command-prompt-is-opened)
 

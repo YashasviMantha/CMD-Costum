@@ -16,6 +16,6 @@ HideIcons(){
 MouseClick, left, 768, 432 ,2
 MouseClick, right, 768, 432
 MouseMove, 898, 444
-Sleep 370
+Sleep 570
 MouseClick, right,1178, 614
 }
