@@ -2,6 +2,7 @@
 These are some of the scripts to make my life easier for me in Command Prompt.
 
 Docs:
+`help` -   prints all cuts
 
 `chr`  -   opens chrome
 
