@@ -11,6 +11,7 @@ doskey l = C:\Users\Zara\Desktop\CustomScripts\CDM\LinuxCommands.bat
 doskey desktop = cd "C:\Users\Zara\Desktop"
 doskey kri = C:\Users\Zara\Desktop\CustomScripts\CDM\krishna.bat
 doskey help = C:\Users\Zara\Desktop\CustomScripts\CDM\help.bat
+doskey n = C:\Users\Zara\Desktop\CustomScripts\CDM\exe_py_file.bat
 :: cd "C:\Users\Zara\Desktop\Internship\Work"
 REM ECHO.
 REM ECHO "i -Proxy | o -Reset | chr -Chrome | l -LXC | jup -Jupyter-Lab"

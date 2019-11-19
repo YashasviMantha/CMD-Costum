@@ -24,6 +24,7 @@ Docs:
 
 `m`    -   Executes the main.py file in the directory
 
+`n`    -   Executes the %file-name% python file. %file-name% should be set initially.
 
 Formated Start info: 43 Upvotes [Here](https://superuser.com/questions/302194/automatically-executing-commands-when-a-command-prompt-is-opened)
 
