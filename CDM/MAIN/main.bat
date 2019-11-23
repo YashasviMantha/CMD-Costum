@@ -9,7 +9,7 @@ doskey push = C:\Users\Zara\Desktop\CustomScripts\CDM\git_push.bat
 doskey o = C:\Users\Zara\Desktop\CustomScripts\CDM\proxy_reset.bat
 doskey l = C:\Users\Zara\Desktop\CustomScripts\CDM\LinuxCommands.bat
 doskey desktop = cd "C:\Users\Zara\Desktop"
-doskey kri = C:\Users\Zara\Desktop\CustomScripts\CDM\krishna.bat
+doskey pet = C:\Users\Zara\Desktop\CustomScripts\CDM\peter.bat
 doskey help = C:\Users\Zara\Desktop\CustomScripts\CDM\help.bat
 doskey n = C:\Users\Zara\Desktop\CustomScripts\CDM\exe_py_file.bat
 :: cd "C:\Users\Zara\Desktop\Internship\Work"
