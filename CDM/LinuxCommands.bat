@@ -1,8 +1,8 @@
 @echo off
 doskey ls = dir
-@echo off
 doskey clear = cls
-
+doskey ll = dir
+doskey c = cd ..
 echo.
 echo Linux Commands Implemented
 echo.

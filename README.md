@@ -53,3 +53,16 @@ Docs:
 
 VPN Setup that tunnels just the `Krishna` Network traffic. All other packets are tunneled from the local network.
 Only `one` IP has been allowed.
+
+# Linux Command Implementation
+The are the currently supported aliases that I have added for the `l` cut.
+
+Docs:
+
+`c`         -->     Goes up a dir (`cd ..`)
+
+`clear`     -->     clears the screen
+
+`ll`        -->     Lists the dir (Will change it to list)
+
+`ls`        -->     Lists the dir (Will change it to rows)
