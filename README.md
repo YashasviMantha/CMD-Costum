@@ -63,7 +63,9 @@ Docs:
 These are some shorcuts (Aliases) that I have set which can be eaisly loaded onto the `.bashrc` file.
 
 To use these clone the repo to your home directory and then copy the contents of the `__bashrc_copy__.sh` to your user `.bashrc` file.
-Then execute the `source ~./bashrc` to load all the commands.
+Then execute the `source ~/.bashrc` to load all the commands.
+
+Make sure to run `chmod +x *` in the terminal directory.
 
 Docs:
 
