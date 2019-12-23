@@ -20,7 +20,7 @@ Docs:
 
 `pull` -   Pull repo
 
-`kri`  -   Auto Remote Login integrated with RSA Key.
+`cse`  -   Auto Remote Login integrated with RSA Key.
 
 `m`    -   Executes the main.py file in the directory
 
@@ -46,16 +46,8 @@ Docs:
 
 `Ctrl + e`   --> Enables/Disables Desktop icons and hides Taskbar
 
-# Remote-Server
-Contains Mainly OpenVPN Setup that I use for accessing RDPS set-up.
-
-Docs:
-
-VPN Setup that tunnels just the `Krishna` Network traffic. All other packets are tunneled from the local network.
-Only `one` IP has been allowed.
-
 # Linux Command Implementation
-The are the currently supported aliases that I have added for the `l` cut.
+These are the currently supported aliases that I have added for the `l` cut.
 
 Docs:
 
@@ -66,3 +58,15 @@ Docs:
 `ll`        -->     Lists the dir (Will change it to list)
 
 `ls`        -->     Lists the dir (Will change it to rows)
+
+# Terminal
+These are some shorcuts (Aliases) that I have set which can be eaisly loaded onto the `.bashrc` file.
+
+To use these clone the repo to your home directory and then copy the contents of the `__bashrc_copy__.sh` to your user `.bashrc` file.
+Then execute the `source ~./bashrc` to load all the commands.
+
+Docs:
+
+`i`         -->     Sets GITAM Proxy
+
+`o`         -->     Resets Proxy
