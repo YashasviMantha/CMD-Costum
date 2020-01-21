@@ -28,6 +28,10 @@ Docs:
 
 Formated Start info: 43 Upvotes [Here](https://superuser.com/questions/302194/automatically-executing-commands-when-a-command-prompt-is-opened)
 
+Info:
+NO NEED FOR CREATING NEW BAT FILE. Put the `main.bat` file in the registry file using:
+`WIN+R --> regedit --> [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Command Processor] --> {Right Click} --> New --> Expandable New String --> value: AutoRun --> data: Path`
+
 # Python-Scripts
 These are some of the Scripts that I wrote for stuff like marking and set-up.
 
