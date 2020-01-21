@@ -43,6 +43,13 @@ Docs:
 
 `me.mark("Y")`           -->  for watermarking the script in Yashasvi's name
 
+# Powershell
+The same cuts as in CMD but more powerful with powershell. Under Development!!
+
+Docs:
+
+`ll`        -->     Lists the dir (Default)
+
 # AutoHotKey-Scripts
 These are some of the `.ahk` scripts I wrote.
 
