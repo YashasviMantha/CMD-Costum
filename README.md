@@ -2,6 +2,7 @@
 These are some of the scripts to make my life easier for me in Command Prompt.
 
 Docs:
+
 `help` -   prints all cuts
 
 `chr`  -   opens chrome
@@ -26,7 +27,7 @@ Docs:
 
 `n`    -   Executes the %file-name% python file. %file-name% should be set initially.
 
-Formated Start info: 43 Upvotes [Here](https://superuser.com/questions/302194/automatically-executing-commands-when-a-command-prompt-is-opened)
+Formatted Start info: [StackOverflow Reference Question](https://superuser.com/q/302194/874604) & [Answer](https://superuser.com/a/302553/874604).
 
 Info:
 NO NEED FOR CREATING NEW BAT FILE. Put the `main.bat` file in the registry file using:
