@@ -84,3 +84,24 @@ Docs:
 `i`         -->     Sets GITAM Proxy
 
 `o`         -->     Resets Proxy
+
+
+# WindowsTerminal
+
+..* Switch to Developer options from `Settings -> Update and Security -> For developers`
+..* Reboot
+..* Check `Start -> Windows Features -> Windows Subsystem for linux`
+..* Reboot
+..* Install `Ubuntu` (For the latest) from `Windows Store`
+..* Install `WindowsTerminal` 
+..* Execute the following:
+
+[--Referance--](https://superuser.com/q/302194/874604)
+
+$$ For Font:
+
+Install CascadiaPL from [here](https://github.com/microsoft/cascadia-code/releases?WT.mc_id=-blog-scottha)
+
+Add this to `settings.json` in the Ubuntu profile:
+
+`"fontFace":  "Cascadia Code PL"`
