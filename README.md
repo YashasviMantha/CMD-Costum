@@ -88,20 +88,43 @@ Docs:
 
 # WindowsTerminal
 
-..* Switch to Developer options from `Settings -> Update and Security -> For developers`
-..* Reboot
-..* Check `Start -> Windows Features -> Windows Subsystem for linux`
-..* Reboot
-..* Install `Ubuntu` (For the latest) from `Windows Store`
-..* Install `WindowsTerminal` 
-..* Execute the following:
+* Switch to Developer options from `Settings -> Update and Security -> For developers`
+* Reboot
+* Check `Start -> Windows Features -> Windows Subsystem for linux`
+* Reboot
+* Install `Ubuntu` (For the latest) from `Windows Store`
+* Install `WindowsTerminal` 
+* Execute the following:
 
 [--Referance--](https://superuser.com/q/302194/874604)
 
-$$ For Font:
+## For Font: ##
 
 Install CascadiaPL from [here](https://github.com/microsoft/cascadia-code/releases?WT.mc_id=-blog-scottha)
 
 Add this to `settings.json` in the Ubuntu profile:
 
 `"fontFace":  "Cascadia Code PL"`
+
+# VSCode
+
+These are some of the User settings for VSCode.
+
+## Install Fira Code:
+
+* [Download](https://github.com/tonsky/FiraCode) `Fira Code`.
+* Open the TTF Folder.
+* Select All.
+* Right Click Install.
+* Fira Code will not work inside `.vscode` folder.
+
+## Local Settings:
+
+* Make a `.vscode` folder.
+* copy the desired settings in the `settings.json` file.
+
+### Useful Links:
+
+* [Dev.to](https://dev.to/thegeoffstevens/vs-code-settings-you-should-customize-5e75)
+* [Yes VSCode](https://vscodecandothat.com/)
+

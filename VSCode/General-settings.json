@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.fontFamily": "'Fira Code Retina'",
+    "editor.fontLigatures": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "files.autoSave": "afterDelay",
+    "files.trimFinalNewlines": true
+}
