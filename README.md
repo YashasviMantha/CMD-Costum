@@ -117,11 +117,12 @@ These are some of the User settings for VSCode.
 * Select All.
 * Right Click Install.
 * Fira Code will not work inside `.vscode` folder.
+* Now open `Preferances: Open Settings (JSON)` with `CTRL + SHIFT + P` and add the `fontFamily` and `fontLigatures` line from `general-strrings.json` `file in VSCode folder`.
 
 ## Local Settings:
 
 * Make a `.vscode` folder.
-* copy the desired settings in the `settings.json` file.
+* copy the desired settings in the `settings.json` file from `general-strrings.json` `file in VSCode folder`.
 
 ### Useful Links:
 
