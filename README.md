@@ -29,6 +29,8 @@ Docs:
 
 Formatted Start info: [StackOverflow Reference Question](https://superuser.com/q/302194/874604) & [Answer](https://superuser.com/a/302553/874604).
 
+Note: After fresh install of windows change the paths in Main file.
+
 Info:
 NO NEED FOR CREATING NEW BAT FILE. Put the `main.bat` file in the registry file using:
 `WIN+R --> regedit --> [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Command Processor] --> {Right Click} --> New --> Expandable New String --> value: AutoRun --> data: Path`
