@@ -9,9 +9,9 @@ doskey push = C:\Users\yasha\Desktop\CustomScripts\CDM\git_push.bat
 doskey o = C:\Users\yasha\Desktop\CustomScripts\CDM\proxy_reset.bat
 doskey l = C:\Users\yasha\Desktop\CustomScripts\CDM\LinuxCommands.bat
 doskey desktop = cd "C:\Users\yasha\Desktop"
-doskey pet = C:\Users\yasha\Desktop\CustomScripts\CDM\peter.bat
 doskey help = C:\Users\yasha\Desktop\CustomScripts\CDM\help.bat
 doskey n = C:\Users\yasha\Desktop\CustomScripts\CDM\exe_py_file.bat
+doskey clreg = C:\Users\yasha\Desktop\CustomScripts\CDM\Copy-RegNo.bat
 :: cd "C:\Users\yasha\Desktop\Internship\Work"
 REM ECHO.
 REM ECHO "i -Proxy | o -Reset | chr -Chrome | l -LXC | jup -Jupyter-Lab"
